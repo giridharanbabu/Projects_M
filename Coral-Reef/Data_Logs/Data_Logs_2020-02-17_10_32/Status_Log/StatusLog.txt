@@ -1,0 +1,117 @@
+10:37:47[INFO] Program Session: 2020-02-17_10_37 Status: Start
+
+10:37:47[INFO] Parser has obtained filename
+10:39:46[INFO] Program Session: 2020-02-17_10_39 Status: Start
+
+10:39:46[INFO] Parser has obtained filename
+10:42:57[INFO] Program Session: 2020-02-17_10_42 Status: Start
+
+10:42:57[INFO] Parser has obtained filename
+10:44:3[INFO] Program Session: 2020-02-17_10_44 Status: Start
+
+10:44:3[INFO] Parser has obtained filename
+22:7:5[INFO] Program Session: 2020-02-17_22_7 Status: Start
+
+22:7:5[INFO] Parser has obtained filename
+22:11:41[INFO] Program Session: 2020-02-17_22_10 Status: Start
+
+22:12:3[INFO] Parser has obtained filename
+22:14:27[INFO] Parser has obtained filename
+22:17:5[INFO] Parser has obtained filename
+22:31:5[INFO] Parser has obtained filename
+22:31:54[INFO] Parser has obtained filename
+22:33:40[INFO] Parser has obtained filename
+22:34:10[INFO] Parser has obtained filename
+22:34:18[INFO] Parser has obtained filename
+22:36:30C:\Users\gdnau\Downloads\Project\Algae-master\Algae-master\Sample_Images\Sample_Image_1.jpg
+22:38:31[INFO] Original_Image has been identified on disc
+22:38:31[INFO] Original_Image image is being written to the disc
+22:38:32[INFO] Original_Image image has been written to the disc
+22:38:32[INFO] Original_Image has been passed on
+22:39:20[INFO] Original_Image has been identified on disc
+22:39:20[INFO] Original_Image image is being written to the disc
+22:39:21[INFO] Original_Image image has been written to the disc
+22:39:21[INFO] Original_Image has been passed on
+22:39:31[INFO] Image is being preprocessed
+22:39:31[INFO] Post_Resizing_Image image is being written to the disc
+22:39:31[INFO] Post_Resizing_Image image has been written to the disc
+22:39:31[INFO] Image has been resized
+22:39:31[INFO] Post_Processing_Image image is being written to the disc
+22:39:31[INFO] Post_Processing_Image image has been written to the disc
+22:39:31[INFO] Image has been processed for further steps
+22:39:57[INFO] Image is being preprocessed
+22:39:57[INFO] Post_Resizing_Image image is being written to the disc
+22:39:57[INFO] Post_Resizing_Image image has been written to the disc
+22:39:57[INFO] Image has been resized
+22:39:57[INFO] Post_Processing_Image image is being written to the disc
+22:39:57[INFO] Post_Processing_Image image has been written to the disc
+22:39:57[INFO] Image has been processed for further steps
+22:40:1[INFO] Pixel_DataFrame is being built
+22:40:1[INFO] Viewing: Pixel_DataFrame
+22:40:1[INFO] Pixel_DataFrame has been built
+22:40:25[INFO] Image pixels are being transferred to dataframe
+22:41:48[INFO] Viewing: Pixel_DataFrame
+22:41:48[INFO] Pixel_DataFrame is being dumped to disc
+22:42:21[INFO] Pixel_DataFrame has been dumped to disc
+22:42:21[INFO] Image pixels have been transferred to the dataframe
+22:42:32[INFO] Pixel channel with highest value is being extracted
+22:49:11[INFO] Pixel channel with highest value is being extracted
+22:59:9[INFO] Maximum_Channel_Value_Image image is being written to the disc
+22:59:9[INFO] Maximum_Channel_Value_Image image has been written to the disc
+22:59:9[INFO] Viewing: Maximum_Channel_Value_DataFrame
+22:59:9[INFO] Maximum_Channel_Value_DataFrame is being dumped to disc
+22:59:39[INFO] Maximum_Channel_Value_DataFrame has been dumped to disc
+22:59:39[INFO] Pixel channel with highest value have been extracted
+23:1:13[INFO] Extracting Red Channel Value
+23:1:13[INFO] Red_Channel_Value_DataFrame is being built
+23:1:13[INFO] Viewing: Red_Channel_Value_DataFrame
+23:1:13[INFO] Red_Channel_Value_DataFrame has been built
+23:3:39[INFO] Viewing: Red_Value_Extractor_DataFrame
+23:3:39[INFO] Red_Value_Extractor_DataFrame is being dumped to disc
+23:3:39[INFO] Red_Value_Extractor_DataFrame has been dumped to disc
+23:3:39[INFO] Red Channel Value has been extracted
+23:3:46[INFO] Calculating the mean value of red pixels
+23:5:18[INFO] Sum of red pixel values: 11428375
+23:5:18[INFO] Number of red pixels visited: 120140
+23:5:18[INFO] Mean value of red pixels is: 95
+23:5:38[INFO] Classifying pixels with red channel value greater thcan mean: 95
+23:8:9[INFO] Classified_Red_Pixels_Image image is being written to the disc
+23:8:9[INFO] Classified_Red_Pixels_Image image has been written to the disc
+23:8:9[INFO] Viewing: Classified_Red_Pixels_DataFrame
+23:8:9[INFO] Classified_Red_Pixels_DataFrame is being dumped to disc
+23:8:38[INFO] Classified_Red_Pixels_DataFrame has been dumped to disc
+23:8:38[INFO] Pixels with red channel value greater than mean have been classified
+23:10:9[INFO] Contours are being collected
+23:10:9[INFO] GrayScale_Image image is being written to the disc
+23:10:9[INFO] GrayScale_Image image has been written to the disc
+23:10:9[INFO] Grayscale image has been dumped to disc
+23:10:9[INFO] Thresholded_GrayScale_Image image is being written to the disc
+23:10:9[INFO] Thresholded_GrayScale_Image image has been written to the disc
+23:10:9[INFO] Thresholded grayscale image is being dumped to disc
+23:10:32[INFO] Contours are being identified from the thresholded grayscale image
+23:13:22[INFO] Contours are being collected
+23:13:22[INFO] GrayScale_Image image is being written to the disc
+23:13:22[INFO] GrayScale_Image image has been written to the disc
+23:13:22[INFO] Grayscale image has been dumped to disc
+23:13:22[INFO] Thresholded_GrayScale_Image image is being written to the disc
+23:13:22[INFO] Thresholded_GrayScale_Image image has been written to the disc
+23:13:22[INFO] Thresholded grayscale image is being dumped to disc
+23:13:44[INFO] Contours are being identified from the thresholded grayscale image
+23:17:7[INFO] Program Session: 2020-02-17_23_17 Status: Start
+
+23:17:7C:\Users\gdnau\Downloads\Project\Algae-master\Algae-master\Sample_Images\Sample_Image_1.jpg
+23:17:7[INFO] Original_Image has been identified on disc
+23:17:7[INFO] Original_Image image is being written to the disc
+23:17:29[INFO] Contours are being identified from the thresholded grayscale image
+23:18:0[INFO] Contours are being identified from the thresholded grayscale image
+23:19:0[INFO] Program Session: 2020-02-17_23_19 Status: Start
+
+23:19:0C:\Users\gdnau\Downloads\Project\Algae-master\Algae-master\Sample_Images\Sample_Image_1.jpg
+23:19:0[INFO] Original_Image has been identified on disc
+23:19:0[INFO] Original_Image image is being written to the disc
+23:19:10[INFO] Contours are being identified from the thresholded grayscale image
+23:19:52[INFO] Program Session: 2020-02-17_23_19 Status: Start
+
+23:19:52C:\Users\gdnau\Downloads\Project\Algae-master\Algae-master\Sample_Images\Sample_Image_1.jpg
+23:19:52[INFO] Original_Image has been identified on disc
+23:19:52[INFO] Original_Image image is being written to the disc
